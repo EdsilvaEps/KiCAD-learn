@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f42882d5-93e8-4117-b10c-4c073834d09d")
+	(paper "A4")
+	(title_block
+		(title "Project 1 - LED Torch")
+		(date "2026-07-03")
+		(rev "1")
+		(company "Oulu Uni")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
