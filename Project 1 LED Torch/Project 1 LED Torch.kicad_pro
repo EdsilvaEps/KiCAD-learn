@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers_for_LED_torch/",
       "specctra_dsn": "",
       "vrml": ""
     },
